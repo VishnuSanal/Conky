@@ -4,6 +4,12 @@
 
 # Setting Up
 
+```
+curl 'https://raw.githubusercontent.com/VishnuSanal/Conky/main/install.sh' -o install.sh
+chmod +x install.sh
+./install.sh
+```
+
 # Credits
 
 - Background by [Jonatan Pie](https://unsplash.com/@r3dmax?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) from [Unsplash](https://unsplash.com/photos/3l3RwQdHRHg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
