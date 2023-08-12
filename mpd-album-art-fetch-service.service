@@ -1,0 +1,11 @@
+[Unit]
+Description=Fetches album art from the currently playing mpd file into /tmp/mpdAlbumArt.jpg
+
+[Service]
+User=vishnu
+WorkingDirectory=/tmp/
+ExecStart=/home/vishnu/bin/mpd-album-art.sh
+Restart=always
+
+[Install]
+WantedBy=default.target
