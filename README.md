@@ -13,4 +13,6 @@ chmod +x install.sh
 # Credits
 
 - Background by [Jonatan Pie](https://unsplash.com/@r3dmax?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) from [Unsplash](https://unsplash.com/photos/3l3RwQdHRHg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-- **@VipinVIP** for [VipinVIP/my-conky](https://github.com/VipinVIP/my-conky)
+- [Emmeran Richard](https://www.behance.net/emmeranrichard) for [Anurati Font](https://www.behance.net/gallery/33704618/ANURATI-Free-Font)
+- [Andrew Paglinawan](https://fonts.google.com/?query=Andrew+Paglinawan) for [Quicksand Font](https://fonts.google.com/specimen/Quicksand)
+- [VipinVIP](https://github.com/VipinVIP/) for Conky [config](https://github.com/VipinVIP/my-conky)
