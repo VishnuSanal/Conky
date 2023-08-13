@@ -10,6 +10,13 @@ chmod +x install.sh
 ./install.sh
 ```
 
+Add this to autostart:
+
+ ```
+conky -c ~/.config/conky/conky_date_time.conf &
+conky -c ~/.config/conky/conky_mpd.conf &
+ ```
+
 # Credits
 
 - Background by [Jonatan Pie](https://unsplash.com/@r3dmax?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) from [Unsplash](https://unsplash.com/photos/3l3RwQdHRHg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
